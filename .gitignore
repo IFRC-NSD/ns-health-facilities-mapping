@@ -1,0 +1,6 @@
+.env
+data
+*.sqlite
+*.html
+test.py
+results/
